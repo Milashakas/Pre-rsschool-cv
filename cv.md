@@ -4,6 +4,7 @@
 ### My contacts:
 * Phone number: +375(29)652-73-68
 * E-mail: milanamamedova52@mail.ru
+* Discord: Milana#0438
 * Link to my github:https://github.com/Milashakas
 ### About me:
 I decided to change my job and now i am learning about HTML, CSS and Java Script by myself.
