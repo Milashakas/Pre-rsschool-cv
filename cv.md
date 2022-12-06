@@ -8,7 +8,7 @@
 ### About me:
 I decided to change my job and now i am learning about HTML, CSS and Java Script by myself.
 I am not a stage 0, but i decided to join and refresh my knowledge.
-I want to join to stage1, then stage 2 and very want to learn Angular.
+I want to join to stage1, then stage 2 and i very want to learn Angular.
 ### Skills:
 * HTML
 * CSS
