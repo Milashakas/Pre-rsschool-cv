@@ -44,7 +44,7 @@ return arr
 }
 ```
 ### Work experience:
-I dont have experience as front-end developer
+I dont have experience as frontend developer
 ### Education and courses:
 HTML Academy
 ### Language:
