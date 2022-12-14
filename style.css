@@ -22,7 +22,7 @@
   .header-nav{
     padding: 0 10px;
   }
-  .header{
+  .header, .footer{
     background-color: rgba(147, 228, 241,0.3);
    
   }
@@ -31,15 +31,15 @@
     justify-content: space-between;
    height: 40px;
     list-style: none;
+    align-items: center;
 }
-.nav-item{
-    padding-top:5px;
-}
+
 .link {
     color:black;
     text-decoration: none;
     text-align: center;
     vertical-align: middle;
+    transition: color 0.3s;
   }
   .link:hover{
     color:rgba(0, 183, 255, 0.852);
@@ -67,18 +67,23 @@
 
   .profile-img {
     width:140px;
-    height:140px;
+    
+  }
+  .img-wrapper {
+    width: 140px;
+    height: 140px;
+    overflow: hidden;
     border:15px solid rgba(147, 228, 241,0.3);
     border-radius: 60%;
   }
-
 
 .section-title {
     margin-bottom: 15px;
 }
 
- 
-.footer {
-    padding-top: 10px;
-    background-color: rgba(147, 228, 241,0.3);
+
+.logo {
+    width:60px;
+    height:40px;
+    display: flex;
 }
