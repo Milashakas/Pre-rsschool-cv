@@ -109,4 +109,7 @@ body {
   .img-wrapper {
     margin: 0 auto;
   }
+  .code {
+    font-size: 9px;
+  }
 }
