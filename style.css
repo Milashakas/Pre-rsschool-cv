@@ -52,12 +52,17 @@ body {
   padding:0;
 }
 
-.section, .img {
+.section, .profile {
   margin-top: 60px;
   width: 50%;
   min-height: 110px;
   padding-bottom: 40px;
   border-bottom: 2px solid rgba(147, 228, 241, 0.3);
+}
+.profile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .noborder {
@@ -78,7 +83,7 @@ body {
 
 }
 
-.section-title {
+.section-title, .profile-name {
   margin-bottom: 15px;
 }
 
